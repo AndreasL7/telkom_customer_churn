@@ -1,0 +1,27 @@
+Interaction,Gain,FScore,wFScore,Average wFScore,Average Gain,Expected Gain,Gain Rank,FScore Rank,wFScore Rank,Avg wFScore Rank,Avg Gain Rank,Expected Gain Rank,Average Rank,Average Tree Index,Average Tree Depth
+tenure_months,1302.8,147,71.2,0.5,8.9,1190.3,1,4,1,4,4,1,2.5,45.6,1.9
+payment_method_Pulsa,516.8,23,15.0,0.7,22.5,461.2,2,12,8,2,1,2,4.5,31.3,0.9
+device_class_Low End,277.9,52,24.7,0.5,5.3,163.8,5,6,6,5,6,4,5.3,33.5,1.7
+monthly_purchase_thou_idr_,512.4,162,60.1,0.4,3.2,323.4,3,3,2,13,9,3,5.5,53.6,2.8
+total_spending,308.0,163,50.3,0.3,1.9,140.6,4,2,4,15,10,5,6.7,47.4,2.9
+device_class_Mid End,146.7,32,12.8,0.4,4.6,81.1,6,9,9,10,7,7,8.0,31.8,2.4
+tenure_segmentation,130.8,17,7.2,0.4,7.7,122.9,7,14,12,9,5,6,8.8,60.8,2.6
+games_product_No internet service,130.7,11,5.2,0.5,11.9,62.3,8,17,16,6,2,8,9.5,46.1,1.8
+call_center_Yes,78.5,47,18.0,0.4,1.7,45.4,11,7,7,12,11,9,9.5,42.7,2.0
+games_product_Yes,78.1,24,11.3,0.5,3.3,40.9,12,11,10,7,8,10,9.7,36.3,1.9
+cltv_predicted_thou_idr_,98.5,209,55.5,0.3,0.5,33.0,9,1,3,19,20,11,10.5,49.4,3.6
+music_product_No internet service,57.3,5,3.7,0.7,11.5,31.8,13,22,18,1,3,12,11.5,44.8,0.8
+net_cltv_total_spending,86.5,143,37.0,0.3,0.6,30.3,10,5,5,20,18,13,11.8,47.6,3.3
+total_digital_product_used,18.2,25,6.7,0.3,0.7,6.5,14,10,13,18,16,15,14.3,56.8,3.0
+music_product_Yes,14.0,18,5.5,0.3,0.8,6.6,15,13,14,16,15,14,14.5,54.3,2.6
+total_product_utilisation,11.0,35,11.2,0.3,0.3,4.8,17,8,11,14,24,18,15.3,61.1,3.1
+video_product_Yes,8.8,9,4.1,0.5,1.0,5.5,18,21,17,8,14,17,15.8,51.3,2.3
+payment_method_Digital Wallet,7.9,13,5.2,0.4,0.6,4.7,19,16,15,11,19,19,16.5,55.0,3.2
+use_myapp_Yes,13.3,9,2.0,0.2,1.5,6.4,16,20,21,21,12,16,17.7,53.1,3.7
+education_product_No internet service,1.4,2,1.0,0.5,0.7,0.6,23,25,23,3,17,21,18.7,57.0,3.0
+location_Jakarta,4.7,14,2.8,0.2,0.3,1.7,20,15,19,22,23,20,19.8,70.8,3.0
+all_digital_product,1.7,10,2.8,0.3,0.2,0.6,22,18,20,17,25,22,20.7,63.4,4.5
+any_digital_product,2.1,2,0.2,0.1,1.1,0.4,21,24,25,25,13,23,21.8,20.5,3.5
+education_product_Yes,1.0,3,0.6,0.2,0.3,0.2,24,23,24,23,22,24,23.3,59.0,3.3
+payment_method_Debit,0.8,10,1.1,0.1,0.1,0.2,25,19,22,26,26,25,23.8,68.6,4.1
+video_product_No internet service,0.4,1,0.1,0.1,0.4,0.1,26,26,26,24,21,26,24.8,22.0,2.0
