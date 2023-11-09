@@ -58,7 +58,7 @@ def main():
         st.title("🕵️‍♂️ Detective Gallery")
         st.caption("where Storytelling meets Modelling")
         st.write("")
-        st.markdown('Made by <a href="https://www.linkedin.com/in/andreaslukita7/">Andreas Lukita</a>', unsafe_allow_html=True)
+        st.markdown('Made by <a href="https://www.linkedin.com/in/andreaslukita7/">Andreas Lukita</a>, <a href="https://www.linkedin.com/in/ruben-daniel/">Ruben Daniel</a>, and <a href="https://www.linkedin.com/in/ronaldo-w-50783b171/">Ronaldo Wijaya</a>', unsafe_allow_html=True)
 
         with st.expander("⏳ COMPONENTS", True):
             page.item("Introduction", components.show_introduction, default=True)
