@@ -558,7 +558,8 @@ def beeswarm_plot(_loaded_model,
         ax
     )
     gc.collect()
-    
+
+@st.cache_data    
 def ice_pdp(_loaded_model, 
             _loaded_pipeline, 
             X_train,
